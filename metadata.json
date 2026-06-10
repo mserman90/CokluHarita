@@ -1,0 +1,6 @@
+{
+  "name": "Tactical OSINT Station",
+  "description": "Zero-API OSINT map integrating multiple intelligence iframe layers like ADSB, MarineTraffic, and FIRMS over a Leaflet base map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
